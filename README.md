@@ -1,7 +1,7 @@
-# CEP-Project1
-## ROADSTER
+# CEP-Project1\n
+## ROADSTER\n
 
-##Team members
-*Emily Zhu
-*Timothy Immanuel
-*Rushi Patel
+##Team members\n
+*Emily Zhu\n
+*Timothy Immanuel\n
+*Rushi Patel\n
